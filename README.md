@@ -1,2 +1,2 @@
 # Trabalho_Faculdade
- Concessão e rRisco de Crédito
+ Concessão e Risco de Crédito
